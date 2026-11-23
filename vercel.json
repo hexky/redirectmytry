@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://mytry.cc.cd",
+      "permanent": true
+    }
+  ]
+}
